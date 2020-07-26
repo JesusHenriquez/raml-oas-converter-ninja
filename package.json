@@ -12,5 +12,13 @@
     "swagger"
   ],
   "author": "Jesus Henriquez <henriquezfilardo@icloud.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusHenriquez/raml-oas-converter-ninja.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JesusHenriquez/raml-oas-converter-ninja/issues"
+  },
+  "homepage": "https://github.com/JesusHenriquez/raml-oas-converter-ninja#readme"
 }
